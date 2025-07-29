@@ -12,8 +12,8 @@ A sleek, modern React-based application that uses Tesseract.js to extract text f
 
 ## 📷 Demo
 
-![App Demo]( <img width="623" height="347" alt="Screenshot 2025-07-29 200744" src="https://github.com/user-attachments/assets/9fb6d73f-29a5-46ad-8308-d6c15827e7a2" />
- ) <!-- You can add a screen recording later -->
+<img width="623" height="347" alt="Screenshot 2025-07-29 200744" src="https://github.com/user-attachments/assets/9fb6d73f-29a5-46ad-8308-d6c15827e7a2" />
+ <!-- You can add a screen recording later -->
 
 ## 🛠️ Tech Stack
 
